@@ -23,9 +23,6 @@ Edit
 1. Clone the repository:  
 git clone https://github.com/DishaS08/Shopify_Clone_Website.git
 
-yaml
-Copy
-Edit
 2. Open `index.html` in your browser to explore the website.
 
 ## 📸 Screenshots
