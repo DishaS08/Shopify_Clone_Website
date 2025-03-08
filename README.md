@@ -10,14 +10,12 @@ A Shopify-inspired clone website built using **HTML5** and **CSS3**, designed to
 
 ## 📂 Project Structure
 📂 Shopify_Clone_Website
-├── index.html ➔ Main HTML file
-├── styles.css ➔ Styling for the website
-├── assets/ ➔ Images, icons, and other media
-└── README.md ➔ Project documentation
+## Project Structure  
+- **index.html** ➔ Main HTML file  
+- **styles.css** ➔ Styling for the website  
+- **assets/** ➔ Images, icons, and other media  
+- **README.md** ➔ Project documentation  
 
-markdown
-Copy
-Edit
 
 ## 🚀 How to Run
 1. Clone the repository:  
