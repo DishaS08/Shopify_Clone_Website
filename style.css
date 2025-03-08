@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+}
+.section1{
+    background-color: rgb(1, 128, 96);
+}
+.section1 img{
+    height: auto;
+    display: block;
+    width: 100%;
+}
+h1{
+    color: #ffff;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+}
+p{
+    color: #ffff;
+    text-align: center;
+    line-height: 70px;
+    font-size: x-large;  
+}
+
+input[type="text"]{
+    margin-left: 0;
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    width: 200px; 
+    padding: 10px; 
+    font-size: 11px; 
+    border: 2px solid #ccc; 
+    border-radius: 30px;
+    display: flex;
+}
+
+.outer-button {
+    padding: 1px;
+    border-radius: 30px;
+    color: black;
+    background-color: white;
+    left: 35%;
+    margin-left: 5px;
+    position: sticky;
+    padding: 8px 95px;
+    cursor: auto;
+}
+.inner-button {
+    position: relative;
+    left: 25%;
+    color:white;
+    background-color: black;
+    text-align: right;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 7px 15px;
+} 
+.para h6{
+    color: #ffff;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    line-height: 50px;
+    font-size: 14px;
+    font-weight: 100;
+}
+.sec1 img{
+    height: 480px;
+    width: 576px;
+    margin-left: 400px;
+    display: block;
+    margin: 0 a;
+}
+.section2 {
+    width: 1050px;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-right: 120px;
+    align-items: center;
+    text-align: center;   
+}
+.section2 table td img{
+    height: 40px;
+    width: 40px;
+}
+.section2 table td .c1 span {
+   text-align: justify;
+   align-items: center;
+   justify-content: space-between;
+}
+.section2 .c1{
+    text-align: left;
+    justify-content: left;
+    width: 350px;
+}
+.section2 table td .c2 span{
+    text-align: justify;
+    align-items: center;
+    justify-content: space-between;
+}
+.section2 .c2{
+    text-align: left;
+    margin-left: 120px;
+    width: 350px;
+}
+.section2 table td .c3 span{
+    text-align: justify;
+    align-items: center;
+    display: inline;
+    justify-content: left;
+}
+.section2 .c3{
+    text-align: left;
+    width: 350px;
+    justify-content: space-between;
+}
+.section3 {
+    background-color: white;
+    height: 285px;
+    width: 1100px;
+    margin-top: 35px;
+    margin-left: 200px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+table{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+table tr{
+    margin-top: 150px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+table tr td{
+    margin-left: 150px;
+    border-collapse: separate;
+    border-spacing: 25px;
+    background-color: white;
+}
+.section3 table tr td img{
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 270px;
+    object-fit: scale-down;
+    margin-top: 15px;
+    background-color: white;
+}
+.section4 {
+    background-color: white;
+}
+.section4 p{
+    color: black;
+    text-align: center;
+    line-height: 70px;
+    font-size: x-large;
+}
+.section4 h4{
+    text-align: center;
+}
+.section4 button{
+    padding: 10px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 600;
+    font-size: medium;
+    background-color: black;
+    text-align: right;
+    justify-content: center;
+    left: 45%;
+    position: relative;
+    padding: 14px 40px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    cursor: pointer;
+}
+.footer{
+    text-align: right;
+    justify-content: right;
+    align-items: right;
+    margin-right: 40px;
+}
+.footer span {
+    cursor: pointer;
+    text-decoration: underline;
+    display: inline-block;
+    margin-bottom: 50px;
+    font-weight: 600;
+    font-size: medium;
+}
