@@ -29,7 +29,7 @@ input[type="text"]{
     align-items: left;
     justify-content: left;
     text-align: left;
-    width: 200px; 
+    width: 250px; 
     padding: 10px; 
     font-size: 11px; 
     border: 2px solid #ccc; 
@@ -42,15 +42,16 @@ input[type="text"]{
     border-radius: 30px;
     color: black;
     background-color: white;
-    left: 35%;
+    left: 34%;
     margin-left: 5px;
     position: sticky;
-    padding: 8px 95px;
+    padding: 5px 22px;
     cursor: auto;
+    width: 450px;
 }
 .inner-button {
     position: relative;
-    left: 25%;
+    left: 23%;
     color:white;
     background-color: black;
     text-align: right;
@@ -59,6 +60,8 @@ input[type="text"]{
     border-radius: 20px;
     padding: 7px 15px;
 } 
+
+
 .para h6{
     color: #ffff;
     justify-content: center;
