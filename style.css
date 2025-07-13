@@ -28,17 +28,16 @@ p {
   justify-content: center;
   align-items: center;
   gap: 10px;
-  margin-top: 15px;
+  margin-top: 20px;
   margin-bottom: 10px;
 }
 
 input[type="text"] {
   width: 250px;
-  padding: 12px 20px;
+  padding: 10px;
   font-size: 14px;
   border: 2px solid #ccc;
   border-radius: 30px;
-  text-align: left;
 }
 
 .inner-button {
@@ -54,7 +53,7 @@ input[type="text"] {
 .para h6 {
   color: #fff;
   margin-top: 10px;
-  font-weight: normal;
+  font-weight: 100;
   font-size: 14px;
 }
 
@@ -63,7 +62,6 @@ input[type="text"] {
   width: 580px;
   margin: 30px auto 0 auto;
   display: block;
-  max-width: 100%;
 }
 
 .section2 {
@@ -145,9 +143,4 @@ input[type="text"] {
   margin: 0 15px;
   text-decoration: underline;
   cursor: pointer;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
 }
