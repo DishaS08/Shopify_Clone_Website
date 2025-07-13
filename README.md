@@ -26,7 +26,7 @@ git clone https://github.com/DishaS08/Shopify_Clone_Website.git
 ## 📸 Screenshots
 Here are some key visuals of the project:  
 
-![image](https://github.com/user-attachments/assets/de012d0d-b3a5-4fc4-9719-1a86acf0ce17)
+<img width="1887" height="902" alt="image" src="https://github.com/user-attachments/assets/9f89dc3a-efa6-4916-97ae-bd4988c8bb2c" />
 
 
 ## 🤝 Contributing
